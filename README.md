@@ -1,3 +1,3 @@
 # TensorFlow-Projects
 
-Tensorflow Prractice Projects
+Tensorflow Practice Projects
