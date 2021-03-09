@@ -1,3 +1,3 @@
-# TensorFlow-Projects
+# ML and AI-Projects
 
-Tensorflow Practice Projects
+ML and AI Practice Projects
